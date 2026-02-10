@@ -49,7 +49,7 @@ Exploratory Data Analysis (EDA)
 
 Operations & Business Analysis
 
-📂 Featured Projects
+## 📂 Featured Projects
 
 🔹 Food Delivery Performance Analysis (Python + Pandas)
 
